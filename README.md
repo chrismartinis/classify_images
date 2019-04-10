@@ -79,4 +79,4 @@ run_models_batch.bat
 If instead you are working with the uploaded images, you will replace all instances of run_models_batch.bat from the directions above with run_models_batch_uploaded.bat.
 
 ## License
-__[MIT](https://choosealicense.com/licenses/mit/)__
+__[MIT](https://github.com/chrismartinis/classify_images/blob/master/LICENSE)__
